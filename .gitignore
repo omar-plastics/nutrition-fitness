@@ -1,0 +1,16 @@
+# macOS
+.DS_Store
+
+# project data (dir or symlink)
+data
+data/
+
+# SAS outputs and binaries
+*.log
+*.lst
+*.sas7bdat
+*.sas7bcat
+*.sas7bvew
+*.xpt
+work/
+results/
